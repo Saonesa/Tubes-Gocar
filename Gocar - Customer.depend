@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1703616397 source:c:\users\user\videos\gocar - customer\main.cpp
+	"Gocar.h"
+
+1703615563 c:\users\user\videos\gocar - customer\gocar.h
+	<iostream>
+
+1703616587 source:c:\users\user\videos\gocar - customer\gocar.cpp
+	"Gocar.h"
+
+1703616587 source:d:\kuliah\gocar - customer\gocar.cpp
+	"Gocar.h"
+
+1703615563 d:\kuliah\gocar - customer\gocar.h
+	<iostream>
+
+1703616397 source:d:\kuliah\gocar - customer\main.cpp
+	"Gocar.h"
+
